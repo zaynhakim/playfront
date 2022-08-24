@@ -1,3 +1,3 @@
-# vitejs-vite-627qfi
+# Frontend Playground
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/vitejs-vite-627qfi)
+working in progress
