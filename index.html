@@ -18,14 +18,13 @@
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
       tailwind.config = {
-        const defaultTheme = require('tailwindcss/defaultTheme')
         theme: {
           extend: {
             colors: {
               clifford: '#da373d',
             },
             fontFamily: {
-              sans: ["Inter", ...defaultTheme.fontFamily.sans,]
+              sans: ["Inter", "system-ui", "sans-serif"]
             }
           }
         }
